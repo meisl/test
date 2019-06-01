@@ -1,4 +1,7 @@
 ## Welcome to GitHub Pages
+<script>
+  console.log('js works');
+</script>
 
 You can use the [editor on GitHub](https://github.com/meisl/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
